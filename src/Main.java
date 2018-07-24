@@ -3,7 +3,7 @@ public class Main {
         Task1 task1 = new Task1();
         Task2 task2 = new Task2();
         Task3 task3 = new Task3();
-        task3.parseAge("25");
-        task3.parseAge("121");
+        Task4 task4 = new Task4();
+        task4.getToyName(4);
     }
 }
